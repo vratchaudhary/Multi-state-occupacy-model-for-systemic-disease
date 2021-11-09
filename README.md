@@ -8,6 +8,7 @@ We developed a version of widely used species distribution model that accounts f
 
 ### Code
 Code for this model is here- multi-state occupancy modeling framework for robust estimation of disease prevalence in multi-tissue disease systems
+https://github.com/vratchaudhary/Multi-state-occupacy-model-for-systemic-disease/blob/master/07_JAE_Code_submission_SI.R
 
 ### Publication
 Link to the publication: https://www.researchgate.net/publication/343686668_A_multi-state_occupancy_modelling_framework_for_robust_estimation_of_disease_prevalence_in_multi-tissue_disease_systems/citations?latestCitations=PB%3A350415869
