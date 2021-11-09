@@ -4,6 +4,8 @@ In case of systemic infectious  diseases a pathogen can affect multiple tissues 
 Addtitionally, depending on the sensitivity of the test, a pathogen can go undetected even when it was present. In this paper published in Journal of Applied Ecology, we explored these challenges for an infectious pathogen of wildlife which impacts multiple tissues- Pseudorabies virus (PrV). PrV affects a variety of vulnerable wildlife including endagered Florida panthers.
 We developed a version of widely used species distribution model that accounts for imperfect detection, various covariates that may influence infection and treat latent infection process as dependent or independent on the infection of neigboring tissues. 
 
+![graphical_abstract  Autosaved](https://user-images.githubusercontent.com/32778613/140928345-1a80a742-ed19-44c9-82ac-75d3fed76a12.jpg)
+
 ### Code
 Code for this model is here- multi-state occupancy modeling framework for robust estimation of disease prevalence in multi-tissue disease systems
 
@@ -16,4 +18,3 @@ https://www.usgs.gov/staff-profiles/james-hines?qt-staff_profile_science_product
 
 Vratika Chaudhary, Visiting Scientist and Decision Analyst, USGS Eastern Ecological Science Center
 
-![graphical_abstract  Autosaved](https://user-images.githubusercontent.com/32778613/140928345-1a80a742-ed19-44c9-82ac-75d3fed76a12.jpg)
